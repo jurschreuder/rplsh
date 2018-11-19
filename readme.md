@@ -1,4 +1,4 @@
-![gopher.png]("gopher.png")
+![gopher.png](gopher.png)
 
 Random Projection Location Sensitive Hash in Go
 =========================================
