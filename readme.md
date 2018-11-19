@@ -1,4 +1,6 @@
-Random Projection Location Sensitive Hash
+![gopher.png]("gopher.png")
+
+Random Projection Location Sensitive Hash in Go
 =========================================
 
 Random Projection LSH is a way to create a binary hash from a vector, with closer vectors having a higher chance of having the same hash.
