@@ -11,7 +11,7 @@ Random Projection LSH is a way to create a binary hash from a vector, with close
  - calculate the dot product of the to-be-encoded hash with the random vector
  - with output: All positive values become 1, all negative values become 0
 
-## Instal
+## Install
 ```
 go get github.com/jurschreuder/rplsh
 ```
